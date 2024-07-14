@@ -1,6 +1,6 @@
 ## Olá eu sou Marvin Rocha, Desenvolvedor Frontend, espero que ache interesante meu perfil para que possamos conversar.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinRo&show_icons=true&bg_color=0,000000,012e01,025d03&icon_color=04b406&title_color=04b406&text_color=5c5d5c&hide_border=true&ring_color=e4e4e4&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinRo&show_icons=true&bg_color=0,000000,012e01,025d03&icon_color=04b406&title_color=04b406&text_color=5c5d5c&hide_border=true&ring_color=e4e4e4)
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" alt="MR-HTML" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
