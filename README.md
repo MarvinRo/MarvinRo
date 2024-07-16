@@ -1,4 +1,5 @@
-## Olá eu sou Marvin Rocha, Desenvolvedor Frontend, espero que ache interesante meu perfil para que possamos conversar.
+## PT-BR -Olá eu sou Marvin Rocha, Desenvolvedor Frontend, espero que ache interesante meu perfil para que possamos conversar.
+## EN - Hello, I'm Marvin Rocha, Frontend Developer, I hope you find my profile interesting so we can talk.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinRo&show_icons=true&bg_color=0,000000,012e01,025d03&icon_color=04b406&title_color=04b406&text_color=5c5d5c&hide_border=true&ring_color=e4e4e4)
 
